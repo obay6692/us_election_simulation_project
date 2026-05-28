@@ -1,0 +1,664 @@
+state_name,votes,year,party
+Alabama,813479.0,2008,dem
+Alaska,0.0,2008,dem
+Arizona,1034707.0,2008,dem
+Arkansas,422310.0,2008,dem
+California,8274473.0,2008,dem
+Colorado,1288576.0,2008,dem
+Connecticut,997772.0,2008,dem
+Delaware,255459.0,2008,dem
+District of Columbia,245800.0,2008,dem
+Florida,4282074.0,2008,dem
+Georgia,1844123.0,2008,dem
+Hawaii,325201.0,2008,dem
+Idaho,236440.0,2008,dem
+Illinois,3419348.0,2008,dem
+Indiana,1374039.0,2008,dem
+Iowa,828940.0,2008,dem
+Kansas,514765.0,2008,dem
+Kentucky,751985.0,2008,dem
+Louisiana,782989.0,2008,dem
+Maine,421823.0,2008,dem
+Maryland,1629467.0,2008,dem
+Massachusetts,1904097.0,2008,dem
+Michigan,2872579.0,2008,dem
+Minnesota,1573354.0,2008,dem
+Mississippi,554662.0,2008,dem
+Missouri,1441947.0,2008,dem
+Montana,231667.0,2008,dem
+Nebraska,333319.0,2008,dem
+Nevada,533736.0,2008,dem
+New Hampshire,384826.0,2008,dem
+New Jersey,2215422.0,2008,dem
+New Mexico,472422.0,2008,dem
+New York,4804701.0,2008,dem
+North Carolina,2142651.0,2008,dem
+North Dakota,141278.0,2008,dem
+Ohio,2923149.0,2008,dem
+Oklahoma,502496.0,2008,dem
+Oregon,1037291.0,2008,dem
+Pennsylvania,3276363.0,2008,dem
+Rhode Island,373907.0,2008,dem
+South Carolina,862449.0,2008,dem
+South Dakota,167953.0,2008,dem
+Tennessee,1087437.0,2008,dem
+Texas,3528633.0,2008,dem
+Utah,327670.0,2008,dem
+Vermont,219262.0,2008,dem
+Virginia,1958261.0,2008,dem
+Washington,1750848.0,2008,dem
+West Virginia,303857.0,2008,dem
+Wisconsin,1676761.0,2008,dem
+Wyoming,82868.0,2008,dem
+Alabama,1266546.0,2008,gop
+Alaska,0.0,2008,gop
+Arizona,1230111.0,2008,gop
+Arkansas,638017.0,2008,gop
+California,5011781.0,2008,gop
+Colorado,1073589.0,2008,gop
+Connecticut,629428.0,2008,gop
+Delaware,152374.0,2008,gop
+District of Columbia,17367.0,2008,gop
+Florida,4045624.0,2008,gop
+Georgia,2048759.0,2008,gop
+Hawaii,120429.0,2008,gop
+Idaho,403012.0,2008,gop
+Illinois,2031179.0,2008,gop
+Indiana,1345648.0,2008,gop
+Iowa,682379.0,2008,gop
+Kansas,699655.0,2008,gop
+Kentucky,1048462.0,2008,gop
+Louisiana,1148275.0,2008,gop
+Maine,295273.0,2008,gop
+Maryland,959862.0,2008,gop
+Massachusetts,1108854.0,2008,gop
+Michigan,2048639.0,2008,gop
+Minnesota,1275409.0,2008,gop
+Mississippi,724597.0,2008,gop
+Missouri,1445814.0,2008,gop
+Montana,242763.0,2008,gop
+Nebraska,452979.0,2008,gop
+Nevada,412827.0,2008,gop
+New Hampshire,316534.0,2008,gop
+New Jersey,1613207.0,2008,gop
+New Mexico,346832.0,2008,gop
+New York,2752728.0,2008,gop
+North Carolina,2128474.0,2008,gop
+North Dakota,168561.0,2008,gop
+Ohio,2675009.0,2008,gop
+Oklahoma,960165.0,2008,gop
+Oregon,738475.0,2008,gop
+Pennsylvania,2655885.0,2008,gop
+Rhode Island,189315.0,2008,gop
+South Carolina,1034896.0,2008,gop
+South Dakota,202723.0,2008,gop
+Tennessee,1479178.0,2008,gop
+Texas,4479328.0,2008,gop
+Utah,596030.0,2008,gop
+Vermont,98974.0,2008,gop
+Virginia,1723508.0,2008,gop
+Washington,1229216.0,2008,gop
+West Virginia,397466.0,2008,gop
+Wisconsin,1262393.0,2008,gop
+Wyoming,164958.0,2008,gop
+Alabama,19794.0,2008,oth
+Alaska,0.0,2008,oth
+Arizona,28657.0,2008,oth
+Arkansas,26290.0,2008,oth
+California,275646.0,2008,oth
+Colorado,39196.0,2008,oth
+Connecticut,19592.0,2008,oth
+Delaware,4579.0,2008,oth
+District of Columbia,2686.0,2008,oth
+Florida,63046.0,2008,oth
+Georgia,31590.0,2008,oth
+Hawaii,7112.0,2008,oth
+Idaho,15580.0,2008,oth
+Illinois,71844.0,2008,oth
+Indiana,31357.0,2008,oth
+Iowa,25501.0,2008,oth
+Kansas,21388.0,2008,oth
+Kentucky,26061.0,2008,oth
+Louisiana,29497.0,2008,oth
+Maine,13967.0,2008,oth
+Maryland,42264.0,2008,oth
+Massachusetts,68034.0,2008,oth
+Michigan,80548.0,2008,oth
+Minnesota,61607.0,2008,oth
+Mississippi,10606.0,2008,oth
+Missouri,37480.0,2008,oth
+Montana,15679.0,2008,oth
+Nebraska,14983.0,2008,oth
+Nevada,15018.0,2008,oth
+New Hampshire,6251.0,2008,oth
+New Jersey,39608.0,2008,oth
+New Mexico,10904.0,2008,oth
+New York,83211.0,2008,oth
+North Carolina,39664.0,2008,oth
+North Dakota,6742.0,2008,oth
+Ohio,90218.0,2008,oth
+Oklahoma,0.0,2008,oth
+Oregon,52098.0,2008,oth
+Pennsylvania,62889.0,2008,oth
+Rhode Island,9290.0,2008,oth
+South Carolina,23624.0,2008,oth
+South Dakota,7949.0,2008,oth
+Tennessee,33108.0,2008,oth
+Texas,69834.0,2008,oth
+Utah,28670.0,2008,oth
+Vermont,6810.0,2008,oth
+Virginia,38694.0,2008,oth
+Washington,56814.0,2008,oth
+West Virginia,12039.0,2008,oth
+Wisconsin,43813.0,2008,oth
+Wyoming,6832.0,2008,oth
+Alabama,793620.0,2012,dem
+Alaska,0.0,2012,dem
+Arizona,900081.0,2012,dem
+Arkansas,391953.0,2012,dem
+California,6241648.0,2012,dem
+Colorado,1238490.0,2012,dem
+Connecticut,912531.0,2012,dem
+Delaware,242547.0,2012,dem
+District of Columbia,222332.0,2012,dem
+Florida,4235270.0,2012,dem
+Georgia,1761761.0,2012,dem
+Hawaii,303090.0,2012,dem
+Idaho,212560.0,2012,dem
+Illinois,2934826.0,2012,dem
+Indiana,1140425.0,2012,dem
+Iowa,816429.0,2012,dem
+Kansas,427918.0,2012,dem
+Kentucky,679340.0,2012,dem
+Louisiana,808496.0,2012,dem
+Maine,397754.0,2012,dem
+Maryland,1527686.0,2012,dem
+Massachusetts,1901276.0,2012,dem
+Michigan,2561911.0,2012,dem
+Minnesota,1547668.0,2012,dem
+Mississippi,528260.0,2012,dem
+Missouri,1215031.0,2012,dem
+Montana,200489.0,2012,dem
+Nebraska,289154.0,2012,dem
+Nevada,528801.0,2012,dem
+New Hampshire,368529.0,2012,dem
+New Jersey,1960744.0,2012,dem
+New Mexico,408312.0,2012,dem
+New York,3875826.0,2012,dem
+North Carolina,2178388.0,2012,dem
+North Dakota,124490.0,2012,dem
+Ohio,2697260.0,2012,dem
+Oklahoma,442647.0,2012,dem
+Oregon,932459.0,2012,dem
+Pennsylvania,2907448.0,2012,dem
+Rhode Island,274342.0,2012,dem
+South Carolina,845756.0,2012,dem
+South Dakota,142066.0,2012,dem
+Tennessee,953043.0,2012,dem
+Texas,3294440.0,2012,dem
+Utah,229463.0,2012,dem
+Vermont,199259.0,2012,dem
+Virginia,1904303.0,2012,dem
+Washington,1588309.0,2012,dem
+West Virginia,234925.0,2012,dem
+Wisconsin,1613950.0,2012,dem
+Wyoming,68780.0,2012,dem
+Alabama,1252453.0,2012,gop
+Alaska,0.0,2012,gop
+Arizona,1107130.0,2012,gop
+Arkansas,643717.0,2012,gop
+California,4046524.0,2012,gop
+Colorado,1125391.0,2012,gop
+Connecticut,631432.0,2012,gop
+Delaware,165476.0,2012,gop
+District of Columbia,17337.0,2012,gop
+Florida,4162081.0,2012,gop
+Georgia,2070221.0,2012,gop
+Hawaii,119494.0,2012,gop
+Idaho,420750.0,2012,gop
+Illinois,2094526.0,2012,gop
+Indiana,1412620.0,2012,gop
+Iowa,727928.0,2012,gop
+Kansas,678719.0,2012,gop
+Kentucky,1087127.0,2012,gop
+Louisiana,1152460.0,2012,gop
+Maine,290437.0,2012,gop
+Maryland,904970.0,2012,gop
+Massachusetts,1178245.0,2012,gop
+Michigan,2112673.0,2012,gop
+Minnesota,1321575.0,2012,gop
+Mississippi,674302.0,2012,gop
+Missouri,1478961.0,2012,gop
+Montana,264974.0,2012,gop
+Nebraska,462972.0,2012,gop
+Nevada,462422.0,2012,gop
+New Hampshire,327870.0,2012,gop
+New Jersey,1383233.0,2012,gop
+New Mexico,331915.0,2012,gop
+New York,2226637.0,2012,gop
+North Carolina,2275853.0,2012,gop
+North Dakota,187586.0,2012,gop
+Ohio,2593779.0,2012,gop
+Oklahoma,889372.0,2012,gop
+Oregon,732288.0,2012,gop
+Pennsylvania,2619583.0,2012,gop
+Rhode Island,155355.0,2012,gop
+South Carolina,1049507.0,2012,gop
+South Dakota,210353.0,2012,gop
+Tennessee,1453097.0,2012,gop
+Texas,4555799.0,2012,gop
+Utah,671747.0,2012,gop
+Vermont,92700.0,2012,gop
+Virginia,1788091.0,2012,gop
+Washington,1183614.0,2012,gop
+West Virginia,412406.0,2012,gop
+Wisconsin,1408746.0,2012,gop
+Wyoming,170265.0,2012,gop
+Alabama,18626.0,2012,oth
+Alaska,0.0,2012,oth
+Arizona,34308.0,2012,oth
+Arkansas,27161.0,2012,oth
+California,250484.0,2012,oth
+Colorado,55817.0,2012,oth
+Connecticut,18224.0,2012,oth
+Delaware,5821.0,2012,oth
+District of Columbia,3679.0,2012,oth
+Florida,72854.0,2012,oth
+Georgia,45056.0,2012,oth
+Hawaii,6910.0,2012,oth
+Idaho,18561.0,2012,oth
+Illinois,84374.0,2012,oth
+Indiana,49838.0,2012,oth
+Iowa,21611.0,2012,oth
+Kansas,24607.0,2012,oth
+Kentucky,30269.0,2012,oth
+Louisiana,32599.0,2012,oth
+Maine,22547.0,2012,oth
+Maryland,43300.0,2012,oth
+Massachusetts,50210.0,2012,oth
+Michigan,43144.0,2012,oth
+Minnesota,59699.0,2012,oth
+Mississippi,11442.0,2012,oth
+Missouri,50943.0,2012,oth
+Montana,13923.0,2012,oth
+Nebraska,12957.0,2012,oth
+Nevada,19882.0,2012,oth
+New Hampshire,9475.0,2012,oth
+New Jersey,34849.0,2012,oth
+New Mexico,32102.0,2012,oth
+New York,86519.0,2012,oth
+North Carolina,44798.0,2012,oth
+North Dakota,7749.0,2012,oth
+Ohio,88051.0,2012,oth
+Oklahoma,0.0,2012,oth
+Oregon,48950.0,2012,oth
+Pennsylvania,69468.0,2012,oth
+Rhode Island,7683.0,2012,oth
+South Carolina,26100.0,2012,oth
+South Dakota,8146.0,2012,oth
+Tennessee,36664.0,2012,oth
+Texas,112560.0,2012,oth
+Utah,22091.0,2012,oth
+Vermont,5315.0,2012,oth
+Virginia,52666.0,2012,oth
+Washington,68383.0,2012,oth
+West Virginia,14312.0,2012,oth
+Wisconsin,33917.0,2012,oth
+Wyoming,6740.0,2012,oth
+Alabama,718084.0,2016,dem
+Alaska,0.0,2016,dem
+Arizona,936250.0,2016,dem
+Arkansas,378729.0,2016,dem
+California,5931283.0,2016,dem
+Colorado,1212209.0,2016,dem
+Connecticut,884432.0,2016,dem
+Delaware,235581.0,2016,dem
+District of Columbia,260223.0,2016,dem
+Florida,4485745.0,2016,dem
+Georgia,1837300.0,2016,dem
+Hawaii,266827.0,2016,dem
+Idaho,189677.0,2016,dem
+Illinois,2977498.0,2016,dem
+Indiana,1031953.0,2016,dem
+Iowa,650790.0,2016,dem
+Kansas,414788.0,2016,dem
+Kentucky,628834.0,2016,dem
+Louisiana,779535.0,2016,dem
+Maine,354873.0,2016,dem
+Maryland,1497951.0,2016,dem
+Massachusetts,1964768.0,2016,dem
+Michigan,2267373.0,2016,dem
+Minnesota,1366676.0,2016,dem
+Mississippi,462001.0,2016,dem
+Missouri,1054889.0,2016,dem
+Montana,174521.0,2016,dem
+Nebraska,273858.0,2016,dem
+Nevada,537753.0,2016,dem
+New Hampshire,348126.0,2016,dem
+New Jersey,2021756.0,2016,dem
+New Mexico,380724.0,2016,dem
+New York,4143874.0,2016,dem
+North Carolina,2162074.0,2016,dem
+North Dakota,93526.0,2016,dem
+Ohio,2317001.0,2016,dem
+Oklahoma,419788.0,2016,dem
+Oregon,934631.0,2016,dem
+Pennsylvania,2844705.0,2016,dem
+Rhode Island,249902.0,2016,dem
+South Carolina,849469.0,2016,dem
+South Dakota,114938.0,2016,dem
+Tennessee,867110.0,2016,dem
+Texas,3867816.0,2016,dem
+Utah,237241.0,2016,dem
+Vermont,178179.0,2016,dem
+Virginia,1916845.0,2016,dem
+Washington,1523720.0,2016,dem
+West Virginia,187457.0,2016,dem
+Wisconsin,1382210.0,2016,dem
+Wyoming,55949.0,2016,dem
+Alabama,1306925.0,2016,gop
+Alaska,0.0,2016,gop
+Arizona,1021154.0,2016,gop
+Arkansas,677904.0,2016,gop
+California,3184721.0,2016,gop
+Colorado,1137455.0,2016,gop
+Connecticut,668266.0,2016,gop
+Delaware,185103.0,2016,gop
+District of Columbia,11553.0,2016,gop
+Florida,4605515.0,2016,gop
+Georgia,2068623.0,2016,gop
+Hawaii,128815.0,2016,gop
+Idaho,407199.0,2016,gop
+Illinois,2118179.0,2016,gop
+Indiana,1556220.0,2016,gop
+Iowa,798923.0,2016,gop
+Kansas,656009.0,2016,gop
+Kentucky,1202942.0,2016,gop
+Louisiana,1178004.0,2016,gop
+Maine,334838.0,2016,gop
+Maryland,873646.0,2016,gop
+Massachusetts,1083069.0,2016,gop
+Michigan,2279210.0,2016,gop
+Minnesota,1322891.0,2016,gop
+Mississippi,678457.0,2016,gop
+Missouri,1585753.0,2016,gop
+Montana,274120.0,2016,gop
+Nebraska,485819.0,2016,gop
+Nevada,511319.0,2016,gop
+New Hampshire,345598.0,2016,gop
+New Jersey,1535513.0,2016,gop
+New Mexico,315875.0,2016,gop
+New York,2640570.0,2016,gop
+North Carolina,2339603.0,2016,gop
+North Dakota,216133.0,2016,gop
+Ohio,2771984.0,2016,gop
+Oklahoma,947934.0,2016,gop
+Oregon,742506.0,2016,gop
+Pennsylvania,2912941.0,2016,gop
+Rhode Island,179421.0,2016,gop
+South Carolina,1143611.0,2016,gop
+South Dakota,227460.0,2016,gop
+Tennessee,1517402.0,2016,gop
+Texas,4681590.0,2016,gop
+Utah,397004.0,2016,gop
+Vermont,95053.0,2016,gop
+Virginia,1731156.0,2016,gop
+Washington,1043648.0,2016,gop
+West Virginia,486198.0,2016,gop
+Wisconsin,1409467.0,2016,gop
+Wyoming,174248.0,2016,gop
+Alabama,53156.0,2016,oth
+Alaska,0.0,2016,oth
+Arizona,105406.0,2016,oth
+Arkansas,51982.0,2016,oth
+California,515968.0,2016,oth
+Colorado,214521.0,2016,oth
+Connecticut,70844.0,2016,oth
+Delaware,20851.0,2016,oth
+District of Columbia,8496.0,2016,oth
+Florida,295490.0,2016,oth
+Georgia,123641.0,2016,oth
+Hawaii,33183.0,2016,oth
+Idaho,91359.0,2016,oth
+Illinois,278603.0,2016,oth
+Indiana,133856.0,2016,oth
+Iowa,93167.0,2016,oth
+Kansas,76346.0,2016,oth
+Kentucky,90442.0,2016,oth
+Louisiana,70192.0,2016,oth
+Maine,51839.0,2016,oth
+Maryland,102946.0,2016,oth
+Massachusetts,183694.0,2016,oth
+Michigan,242867.0,2016,oth
+Minnesota,226837.0,2016,oth
+Mississippi,22529.0,2016,oth
+Missouri,134456.0,2016,oth
+Montana,34933.0,2016,oth
+Nebraska,45961.0,2016,oth
+Nevada,73918.0,2016,oth
+New Hampshire,36904.0,2016,oth
+New Jersey,117624.0,2016,oth
+New Mexico,86528.0,2016,oth
+New York,261731.0,2016,oth
+North Carolina,127794.0,2016,oth
+North Dakota,27309.0,2016,oth
+Ohio,236410.0,2016,oth
+Oklahoma,83334.0,2016,oth
+Oregon,131438.0,2016,oth
+Pennsylvania,212461.0,2016,oth
+Rhode Island,20798.0,2016,oth
+South Carolina,91364.0,2016,oth
+South Dakota,24753.0,2016,oth
+Tennessee,100179.0,2016,oth
+Texas,353831.0,2016,oth
+Utah,218216.0,2016,oth
+Vermont,18181.0,2016,oth
+Virginia,196786.0,2016,oth
+Washington,198259.0,2016,oth
+West Virginia,34571.0,2016,oth
+Wisconsin,152943.0,2016,oth
+Wyoming,18545.0,2016,oth
+Alabama,849648.0,2020,dem
+Alaska,153405.0,2020,dem
+Arizona,1672143.0,2020,dem
+Arkansas,423932.0,2020,dem
+California,11109764.0,2020,dem
+Colorado,1804352.0,2020,dem
+Connecticut,1080680.0,2020,dem
+Delaware,296268.0,2020,dem
+District of Columbia,317323.0,2020,dem
+Florida,5297045.0,2020,dem
+Georgia,2473633.0,2020,dem
+Hawaii,366130.0,2020,dem
+Idaho,287021.0,2020,dem
+Illinois,3471915.0,2020,dem
+Indiana,1242495.0,2020,dem
+Iowa,759061.0,2020,dem
+Kansas,558669.0,2020,dem
+Kentucky,772474.0,2020,dem
+Louisiana,856034.0,2020,dem
+Maine,430473.0,2020,dem
+Maryland,1985023.0,2020,dem
+Massachusetts,2382202.0,2020,dem
+Michigan,2804040.0,2020,dem
+Minnesota,1717077.0,2020,dem
+Mississippi,539398.0,2020,dem
+Missouri,1253014.0,2020,dem
+Montana,244786.0,2020,dem
+Nebraska,374583.0,2020,dem
+Nevada,703486.0,2020,dem
+New Hampshire,424921.0,2020,dem
+New Jersey,2608335.0,2020,dem
+New Mexico,501614.0,2020,dem
+New York,5244006.0,2020,dem
+North Carolina,2684292.0,2020,dem
+North Dakota,114902.0,2020,dem
+Ohio,2679165.0,2020,dem
+Oklahoma,503890.0,2020,dem
+Oregon,1340383.0,2020,dem
+Pennsylvania,3459923.0,2020,dem
+Rhode Island,306210.0,2020,dem
+South Carolina,1091541.0,2020,dem
+South Dakota,150471.0,2020,dem
+Tennessee,1143711.0,2020,dem
+Texas,5259126.0,2020,dem
+Utah,560282.0,2020,dem
+Vermont,242820.0,2020,dem
+Virginia,2413568.0,2020,dem
+Washington,2369612.0,2020,dem
+West Virginia,235984.0,2020,dem
+Wisconsin,1630673.0,2020,dem
+Wyoming,73491.0,2020,dem
+Alabama,1441168.0,2020,gop
+Alaska,189892.0,2020,gop
+Arizona,1661686.0,2020,gop
+Arkansas,760647.0,2020,gop
+California,6005961.0,2020,gop
+Colorado,1364607.0,2020,gop
+Connecticut,715291.0,2020,gop
+Delaware,200603.0,2020,gop
+District of Columbia,18586.0,2020,gop
+Florida,5668731.0,2020,gop
+Georgia,2461854.0,2020,gop
+Hawaii,196864.0,2020,gop
+Idaho,554118.0,2020,gop
+Illinois,2446891.0,2020,gop
+Indiana,1729852.0,2020,gop
+Iowa,897672.0,2020,gop
+Kansas,758100.0,2020,gop
+Kentucky,1326646.0,2020,gop
+Louisiana,1255776.0,2020,gop
+Maine,359899.0,2020,gop
+Maryland,976414.0,2020,gop
+Massachusetts,1167202.0,2020,gop
+Michigan,2649852.0,2020,gop
+Minnesota,1484065.0,2020,gop
+Mississippi,756764.0,2020,gop
+Missouri,1718736.0,2020,gop
+Montana,343602.0,2020,gop
+Nebraska,556846.0,2020,gop
+Nevada,669890.0,2020,gop
+New Hampshire,365654.0,2020,gop
+New Jersey,1883274.0,2020,gop
+New Mexico,401894.0,2020,gop
+New York,3250230.0,2020,gop
+North Carolina,2758773.0,2020,gop
+North Dakota,235595.0,2020,gop
+Ohio,3154834.0,2020,gop
+Oklahoma,1020280.0,2020,gop
+Oregon,958448.0,2020,gop
+Pennsylvania,3378263.0,2020,gop
+Rhode Island,199837.0,2020,gop
+South Carolina,1385103.0,2020,gop
+South Dakota,261043.0,2020,gop
+Tennessee,1852475.0,2020,gop
+Texas,5890347.0,2020,gop
+Utah,865140.0,2020,gop
+Vermont,112704.0,2020,gop
+Virginia,1962430.0,2020,gop
+Washington,1584651.0,2020,gop
+West Virginia,545382.0,2020,gop
+Wisconsin,1610065.0,2020,gop
+Wyoming,193559.0,2020,gop
+Alabama,1462616.0,2024,gop
+Alaska,184407.0,2024,gop
+Arizona,1770242.0,2024,gop
+Arkansas,759241.0,2024,gop
+California,6081697.0,2024,gop
+Colorado,1377441.0,2024,gop
+Connecticut,736918.0,2024,gop
+Delaware,214351.0,2024,gop
+District of Columbia,21076.0,2024,gop
+Florida,6110125.0,2024,gop
+Georgia,2663117.0,2024,gop
+Hawaii,193661.0,2024,gop
+Idaho,605246.0,2024,gop
+Illinois,2449079.0,2024,gop
+Indiana,1720347.0,2024,gop
+Iowa,927019.0,2024,gop
+Kansas,758802.0,2024,gop
+Kentucky,1337494.0,2024,gop
+Louisiana,1208505.0,2024,gop
+Maine,377977.0,2024,gop
+Maryland,1035550.0,2024,gop
+Massachusetts,1251308.0,2024,gop
+Michigan,2816636.0,2024,gop
+Minnesota,1519032.0,2024,gop
+Mississippi,747744.0,2024,gop
+Missouri,1751986.0,2024,gop
+Montana,352079.0,2024,gop
+Nebraska,564816.0,2024,gop
+Nevada,751205.0,2024,gop
+New Hampshire,395578.0,2024,gop
+New Jersey,1968215.0,2024,gop
+New Mexico,423391.0,2024,gop
+New York,3578899.0,2024,gop
+North Carolina,2898423.0,2024,gop
+North Dakota,246505.0,2024,gop
+Ohio,3180116.0,2024,gop
+Oklahoma,1036213.0,2024,gop
+Oregon,910702.0,2024,gop
+Pennsylvania,3543308.0,2024,gop
+Rhode Island,214406.0,2024,gop
+South Carolina,1483747.0,2024,gop
+South Dakota,272081.0,2024,gop
+Tennessee,1966865.0,2024,gop
+Texas,6393597.0,2024,gop
+Utah,883818.0,2024,gop
+Vermont,119395.0,2024,gop
+Virginia,2075085.0,2024,gop
+Washington,1530923.0,2024,gop
+West Virginia,533556.0,2024,gop
+Wisconsin,1697626.0,2024,gop
+Wyoming,192633.0,2024,gop
+Alabama,772412.0,2024,dem
+Alaska,139690.0,2024,dem
+Arizona,1582860.0,2024,dem
+Arkansas,396905.0,2024,dem
+California,9276179.0,2024,dem
+Colorado,1728159.0,2024,dem
+Connecticut,992053.0,2024,dem
+Delaware,289758.0,2024,dem
+District of Columbia,294185.0,2024,dem
+Florida,4683038.0,2024,dem
+Georgia,2548017.0,2024,dem
+Hawaii,313044.0,2024,dem
+Idaho,274972.0,2024,dem
+Illinois,3062863.0,2024,dem
+Indiana,1163603.0,2024,dem
+Iowa,707278.0,2024,dem
+Kansas,544853.0,2024,dem
+Kentucky,704043.0,2024,dem
+Louisiana,766870.0,2024,dem
+Maine,435652.0,2024,dem
+Maryland,1902577.0,2024,dem
+Massachusetts,2126545.0,2024,dem
+Michigan,2736533.0,2024,dem
+Minnesota,1656979.0,2024,dem
+Mississippi,466668.0,2024,dem
+Missouri,1200599.0,2024,dem
+Montana,231906.0,2024,dem
+Nebraska,369995.0,2024,dem
+Nevada,705197.0,2024,dem
+New Hampshire,418496.0,2024,dem
+New Jersey,2220713.0,2024,dem
+New Mexico,478802.0,2024,dem
+New York,4619195.0,2024,dem
+North Carolina,2715375.0,2024,dem
+North Dakota,112327.0,2024,dem
+Ohio,2533699.0,2024,dem
+Oklahoma,499599.0,2024,dem
+Oregon,1228410.0,2024,dem
+Pennsylvania,3423042.0,2024,dem
+Rhode Island,285156.0,2024,dem
+South Carolina,1028452.0,2024,dem
+South Dakota,146859.0,2024,dem
+Tennessee,1056265.0,2024,dem
+Texas,4835250.0,2024,dem
+Utah,562566.0,2024,dem
+Vermont,235791.0,2024,dem
+Virginia,2335395.0,2024,dem
+Washington,2245849.0,2024,dem
+West Virginia,214309.0,2024,dem
+Wisconsin,1668229.0,2024,dem
+Wyoming,69527.0,2024,dem
